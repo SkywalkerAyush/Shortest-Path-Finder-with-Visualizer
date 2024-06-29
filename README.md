@@ -1,5 +1,5 @@
-Pathfinding Visualizer Tutorial
-This project is a tutorial for creating a Pathfinding Visualizer. It visualizes pathfinding algorithm and helps in understanding how they work step-by-step.
+Shortest Path Finder with Visulaiser
+This project is creates a shortest Pathfinding Visualizer. It visualizes pathfinding algorithm and helps in understanding how they work step-by-step.
 
 Project Structure
 Everything related to the tutorial (i.e., all the code) is located under /src/PathfindingVisualizer and /src/algorithms. The PathfindingVisualizer component is imported and rendered in App.js.
