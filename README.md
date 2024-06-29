@@ -4,7 +4,7 @@
 This project creates a Shortest Pathfinding Visualizer that helps in understanding pathfinding algorithms step-by-step.
 
 ## Project Structure
-- Everything related to the tutorial (i.e., all the code) is located under `/src/PathfindingVisualizer` and `/src/algorithms`.
+- Everything related to the this project(i.e., all the code) is located under `/src/PathfindingVisualizer` and `/src/algorithms`.
 - The `PathfindingVisualizer` component is imported and rendered in `App.js`.
 
 ## How This Project Is Made
